@@ -1,0 +1,18 @@
+# API
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# DB
+sqlalchemy>=2.0.25
+asyncpg>=0.29.0
+alembic>=1.13.0
+
+# Config & validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Redis (optional for dev)
+redis>=5.0.0
+
+# Dev
+python-dotenv>=1.0.0
