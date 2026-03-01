@@ -2,7 +2,7 @@
 
 **Event-driven gamification engine** for quests, user progress, rule evaluation, and rewards. REST API only — no frontend. Built for trading and fintech platforms (e.g. “Complete 5 trades”, “Reach $10k volume”) and designed to be **pip-installable** for multi-tenant SaaS layers.
 
-Part of the [Gamification](https://github.com/meetrakib/gamification-core) & [Mini Exchange]([https://github.com](https://github.com/meetrakib/mini-derivatives-exchange) ecosystem: this repo is the core engine; optional [gamification-demo-ui](https://github.com/meetrakib/gamification-demo-ui) provides a minimal demo, and [mini-derivatives-exchange](https://github.com/meetrakib/mini-exchange-ui) can emit trade events here.
+Part of the [Gamification](https://github.com/meetrakib/gamification-core) & [Mini Exchange](https://github.com/meetrakib/mini-derivatives-exchange) ecosystem: this repo is the core engine; optional [gamification-demo-ui](https://github.com/meetrakib/gamification-demo-ui) provides a minimal demo, and [mini-derivatives-exchange](https://github.com/meetrakib/mini-exchange-ui) can emit trade events here.
 
 ---
 
